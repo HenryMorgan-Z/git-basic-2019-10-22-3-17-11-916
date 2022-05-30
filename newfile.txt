@@ -1,2 +1,7 @@
 hello-world
 hello again
+
+
+add: This command is mainly used to add the information of the file we want to submit to the index     library.
+commit: This command is mainly used to submit changes in the staging area to the local version library.
+push: This command is mainly used to push updates from the local branch to the remote host.
